@@ -46,4 +46,4 @@ Customer Retention: Regular customers are found primarily in metropolitan areas,
 Conclusion:
 This project helped identify trends and performance metrics that could be leveraged to optimize the supply chain, enhance customer engagement, and improve sales strategies for the Blinkit grocery platform.
 
-Let me know if you'd like any adjustments!
+
